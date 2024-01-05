@@ -3,7 +3,7 @@
 ## Table of Contents
 1. [Introduction/Overview](#1-introductionoverview)
 2. [Objective](#2-objective)
-3. [Methodology](#3-methodology)
+3. [Methodology/Approach](#3-methodology-approach)
 4. [Installation/Requirements](#4-installationrequirements)
 5. [File Descriptions](#5-file-descriptions)
 6. [Data Collection and Sources](#6-data-collection-and-sources)
@@ -18,7 +18,7 @@ This project explores feature selection in predictive analytics using Mixed Inte
 ## 2. Objective
 Comparing MIQP and LASSO to identify the most efficient method for feature selection in regression analysis.
 
-## 3. Methodology
+## 3. Methodology/Approach
 - **MIQP Implementation**: Utilizing Gurobi for direct variable selection.
 - **LASSO Regression**: Employing L1 regularization for indirect variable selection.
 - **Comparative Analysis**: Assessing both methods in terms of predictive performance and selected features.
