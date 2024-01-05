@@ -3,7 +3,7 @@
 ## Table of Contents
 1. [Introduction/Overview](#1-introductionoverview)
 2. [Objective](#2-objective)
-3. [Methodology/Approach](#3-methodology-approach)
+3. [Methodology/Approach](#3-methodologyapproach)
 4. [Installation/Requirements](#4-installationrequirements)
 5. [File Descriptions](#5-file-descriptions)
 6. [Data Collection and Sources](#6-data-collection-and-sources)
